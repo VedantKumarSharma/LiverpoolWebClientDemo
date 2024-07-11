@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AccountManagement</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>528847dd-06e9-46ce-8261-4d3b12c2e38f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7422885d-afb9-44d6-bc6b-e8d90f19ede8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7422885d-afb9-44d6-bc6b-e8d90f19ede8</id>
+      <masked>false</masked>
+      <name>RandomName</name>
+   </variable>
+</TestCaseEntity>
